@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1579351842 source:c:\users\agata kazakeviè\desktop\01.12\main.cpp
+	<iostream>
+
+1579639586 source:c:\users\agata kazakeviè\desktop\manosaskes1\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+	<windows.h>
+
